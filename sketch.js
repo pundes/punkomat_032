@@ -1,4 +1,4 @@
-// DA pattern based on the book Nature of Code from aniel Shiffman
+// A pattern based on the book Nature of Code from aniel Shiffman
 // http://natureofcode.com/
 
 var vehicles = [];
